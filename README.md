@@ -1,5 +1,3 @@
-## Hi, I'm June Hyeok Ko
-
 Undergraduate at Korea University, studying Computer Science and Statistics.
 I'm interested in **world models** and **text-to-video / text-to-image generation**.
 
